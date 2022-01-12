@@ -1,0 +1,9 @@
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#profilePic {
+    border-radius: 50%;
+    height: 350px;
+}
