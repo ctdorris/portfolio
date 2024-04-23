@@ -1,0 +1,14 @@
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+label, input, button {
+    margin-bottom: 15px;
+}
+
+button {
+    padding: 10px 20px;
+}
